@@ -1,4 +1,4 @@
-## Python Quick Reference
+## Python Quick Reference Guide
 
 ### View as a [Python script](reference.py) or a [Jupyter notebook](http://nbviewer.jupyter.org/github/justmarkham/python-reference/blob/master/reference.ipynb)
 
